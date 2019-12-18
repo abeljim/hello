@@ -1,0 +1,1 @@
+cmd_/home/abelj1/hello/hello-1.ko := /home/abelj1/tools/arm-bcm2708/arm-bcm2708-linux-gnueabi/bin/arm-bcm2708-linux-gnueabi-ld -r  -EL -T ./scripts/module-common.lds -T ./arch/arm/kernel/module.lds  --build-id  -o /home/abelj1/hello/hello-1.ko /home/abelj1/hello/hello-1.o /home/abelj1/hello/hello-1.mod.o ;  true

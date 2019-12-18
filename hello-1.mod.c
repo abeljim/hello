@@ -25,7 +25,7 @@ MODULE_INFO(retpoline, "Y");
 static const struct modversion_info ____versions[]
 __used
 __attribute__((section("__versions"))) = {
-	{ 0xfeab0981, "module_layout" },
+	{ 0xb1adfa60, "module_layout" },
 	{ 0x2e5810c6, "__aeabi_unwind_cpp_pr1" },
 	{ 0x7c32d0f0, "printk" },
 	{ 0xb1ad28e0, "__gnu_mcount_nc" },

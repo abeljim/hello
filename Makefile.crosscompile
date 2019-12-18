@@ -1,4 +1,4 @@
-KERNEL_TREE=/home/abelj1/linux-rpi-4.19.y
+KERNEL_TREE=/home/abelj1/rpi/raspberrypi-linux
 CCPREFIX=/home/abelj1/tools/arm-bcm2708/arm-bcm2708-linux-gnueabi/bin/arm-bcm2708-linux-gnueabi-
 
 obj-m += hello-1.o
